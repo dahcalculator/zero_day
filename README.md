@@ -1,1 +1,1 @@
-*Emphasize* This file is mandatory in projects
+*Emphasize* This file is mandatory in projects *Emphasize*
